@@ -6,13 +6,20 @@ cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/main.o /User
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/testIsUnique.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/testIsUnique.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isUnique.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/isUnique.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverseTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverseTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverse.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverse.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isPermutation.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.3/isPermutation.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isPermutationTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.3/isPermutationTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/replaceSpaces.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.4/replaceSpaces.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverse.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverse.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/replaceSpacesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.4/replaceSpacesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compressTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compressTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compressTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compressTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap1 normal x86_64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
@@ -340,23 +347,65 @@ t1376100936
 s256
 i<iostream>
 
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.6/rotateMatrix.h
+c000000005206393E0000000000000289
+t1376139582
+s649
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.6/rotateMatrixTest.h
+c00000000520631A90000000000000111
+t1376137641
+s273
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.7/setZeorsTest.h
+c00000000520649C40000000000000101
+t1376143812
+s257
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.7/setZeros.h
+c0000000052064B1A000000000000027C
+t1376144154
+s636
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.8/isSubstring.h
+c00000000520660DA0000000000000152
+t1376149722
+s338
+i<string>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.8/isSubstringTest.h
+c000000005206525A000000000000010D
+t1376146010
+s269
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/1.8/rotateString.h
+c00000000520660DB00000000000001A8
+t1376149723
+s424
+i<iostream>
+i<string>
+
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop/gtest.framework/gtest
 c000000005202FD100000000000180DE8
 t1375927568
 s1576424
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap1
-t1376102697
-s106892
+t1376149822
+s184028
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/chap1.LinkFileList
-c000000005205A51200000000000004FD
-t1376101650
-s1277
+c00000000520655820000000000000832
+t1376146818
+s2098
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o
-t1376102697
-s25996
+t1376139584
+s25652
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compressTest.o
 t1376102340
@@ -373,6 +422,14 @@ s15060
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isPermutationTest.o
 t1376096677
 s138168
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o
+t1376149723
+s14840
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o
+t1376149750
+s151388
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isUnique.o
 t1376095354
@@ -397,6 +454,26 @@ s24624
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverseTest.o
 t1376095536
 s130744
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o
+t1376143340
+s3172
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o
+t1376144156
+s146696
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o
+t1376149822
+s26496
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o
+t1376145531
+s135884
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o
+t1376145221
+s24636
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/testIsUnique.o
 t1376095355
@@ -455,10 +532,11 @@ i"replaceSpaces.h"
 i"gtest/gtest.h"
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp
-c000000005205A93300000000000002CE
-t1376102707
+c000000005205A9E500000000000002CE
+t1376102885
 s718
 i"compress.h"
+i<iostream>
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compressTest.cpp
 c000000005205A7C30000000000000170
@@ -466,6 +544,55 @@ t1376102339
 s368
 i"compress.h"
 i"gtest/gtest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp
+c00000000520647EC000000000000035A
+t1376143340
+s858
+i"rotateMatrix.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp
+c0000000052064B1A0000000000000989
+t1376144154
+s2441
+i"rotateMatrix.h"
+i"gtest/gtest.h"
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp
+c000000005206507900000000000005AB
+t1376145529
+s1451
+i"gtest/gtest.h"
+i"setZeros.h"
+i"rotateMatrix.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp
+c0000000052064F440000000000000278
+t1376145220
+s632
+i"setZeros.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp
+c00000000520660DA0000000000000217
+t1376149722
+s535
+i"isSubstring.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp
+c00000000520660F5000000000000030F
+t1376149749
+s783
+i"rotateString.h"
+i"isSubstring.h"
+i"gtest/gtest.h"
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp
+c00000000520662900000000000000374
+t1376150160
+s884
+i"rotateString.h"
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/compression.cpp
 c000000005205A1D90000000000000096
@@ -516,6 +643,27 @@ r0
 CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compressTest.cpp
 r0
 
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp
+r0
+
 CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/compression.cpp
 r0
 
@@ -524,11 +672,11 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb117a2b3e0b5b741^0b7ea3b3e0b5b741^---0#1#0#--18"Check dependencies36"DF7CC5F6-3F51-4344-A4F8-B74C29875F07-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies581bbb109ab6b741^0683bb109ab6b741^---0#1#0#--18"Check dependencies36"4E960467-DF68-4683-A992-E30B4B3F3D29-
 
 CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-s397795507.645070
-e397795507.910053
+s397832383.059462
+e397832384.280810
 r1
 xCompileC
 xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o
@@ -538,7 +686,7 @@ xx86_64
 xc++
 xcom.apple.compilers.llvmgcc42
 occ1plus: warning: -Wuninitialized is not supported without -O
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cppc64da5b3e0b5b741^b5fce8b3e0b5b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397795507#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp0000000000000000^1965"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o chap1/../../1.5/compress.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o36"C713EFB1-CB1F-4E8A-967F-709A81EEEC99-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cppea5a0fbf70b6b741^bde447c070b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397832383#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp0000000000000000^1965"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o chap1/../../1.5/compress.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compress.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compress.o36"7AA68CCF-0AFF-4042-8406-2EE61D9CA5E2-
 
 CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/compressTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.5/compressTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 s397795139.083393
@@ -584,6 +732,34 @@ xc++
 xcom.apple.compilers.llvmgcc42
 occ1plus: warning: -Wuninitialized is not supported without -O
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.3/isPermutationTest.cppf2786a24c9b5b741^a7adf525c9b5b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397789476#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.3/isPermutationTest.cpp0000000000000000^2001"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isPermutationTest.o chap1/../../1.3/isPermutationTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.3/isPermutationTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isPermutationTest.o36"CD6C17C4-3603-48C6-8687-A98674C03BCF-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397842523.175593
+e397842523.496675
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp51132d5b98b6b741^bdc6825b98b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397842523#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp0000000000000000^1977"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o chap1/../../1.8/isSubstring.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstring.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstring.o36"1C5D962B-C2A7-43B5-BCB2-48CDDD0A73D2-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397842549.536006
+e397842550.925351
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp2254897598b6b741^86e4ec7698b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397842549#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp0000000000000000^1993"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o chap1/../../1.8/isSubstringTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/isSubstringTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isSubstringTest.o36"62FE8722-6845-4166-9E7E-5301E9240DA7-
 
 CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/isUnique.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/isUnique.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 s397788153.337099
@@ -672,6 +848,76 @@ xcom.apple.compilers.llvmgcc42
 occ1plus: warning: -Wuninitialized is not supported without -O
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverseTest.cpp9b1e2cafc4b5b741^32585db0c4b5b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397788335#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverseTest.cpp0000000000000000^1977"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverseTest.o chap1/../../1.2/reverseTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.2/reverseTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/reverseTest.o36"DFFED4B1-775F-433A-B0A2-498AF9BDDBD8-
 
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397836140.346769
+e397836140.480638
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cppebe4586c7fb6b741^323e7c6c7fb6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397836140#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp0000000000000000^1981"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o chap1/../../1.6/rotateMatrix.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrix.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrix.o36"8B75983D-CD7D-4274-BBD3-4A0A376BDE1A-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397836954.611657
+e397836956.129405
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp14b19c9a82b6b741^cfa0219c82b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397836954#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp0000000000000000^1997"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o chap1/../../1.6/rotateMatrixTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.6/rotateMatrixTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateMatrixTest.o36"56FC0BB8-6122-48E6-BDB5-5D8998DF3D59-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397842960.745464
+e397842961.058309
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp23f5be109ab6b741^cced0e119ab6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397842960#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp0000000000000000^1981"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o chap1/../../1.8/rotateString.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.8/rotateString.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/rotateString.o36"589610BE-1B8F-41F1-922F-71815A031FD8-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397838329.813082
+e397838331.195757
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp9945d0f987b6b741^a31e32fb87b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397838329#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp0000000000000000^1981"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o chap1/../../1.7/setZeorsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeorsTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeorsTest.o36"BFA0C521-510A-43B0-97B6-253C08D67DAE-
+
+CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397838020.882135
+e397838021.123865
+r1
+xCompileC
+xbuild/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp5af5e1c486b6b741^d8b71fc586b6b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397838020#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp0000000000000000^1965"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o chap1/../../1.7/setZeros.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.7/setZeros.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/setZeros.o36"75126C68-BE23-41DA-A64F-3FECC8777020-
+
 CCompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/testIsUnique.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/testIsUnique.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 s397788153.336411
 e397788155.923869
@@ -687,12 +933,12 @@ occ1plus: warning: -Wuninitialized is not supported without -O
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/testIsUnique.cpp6c3e56f9c3b5b741^008becfbc3b5b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397788154#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/testIsUnique.cpp0000000000000000^1981"CompileC build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/testIsUnique.o chap1/../../1.1/testIsUnique.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -mmacosx-version-min=10.8 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/chap1-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/chap1/../../1.1/testIsUnique.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/testIsUnique.o36"37903CFD-A7BF-4799-B8CC-1B869FC536AA-
 
 CLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap1 normal x86_64
-s397795507.916938
-e397795507.942993
+s397842961.065126
+e397842961.100702
 r1
 xLd
 x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap1
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Link /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap14fcceab3e0b5b741^1f68f1b3e0b5b741^---0#0#0#--753"Ld build/Debug/chap1 normal x86_64    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -filelist /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/chap1.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework gtest -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap136"7A12F1D8-46A4-45FC-BACD-9FCC784171D8-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Link /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap1a9bd10119ab6b741^47c719119ab6b741^---0#0#0#--753"Ld build/Debug/chap1 normal x86_64    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -L/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/../../../../Desktop -filelist /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/chap1.build/Debug/chap1.build/Objects-normal/x86_64/chap1.LinkFileList -mmacosx-version-min=10.8 -stdlib=libc++ -framework gtest -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap1/build/Debug/chap136"A6F0CA4A-964E-4F72-92C7-EBA1D463A3E4-
 
