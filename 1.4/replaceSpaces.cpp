@@ -20,7 +20,7 @@ void replaceSpaces(char s[], int length){
     s[index] = '\0';
     index--;
     
-    while (index > 0) {
+    while (index >= 0) {
         if (*p == ' '){
             s[index] = '0';
             s[--index] = '2';

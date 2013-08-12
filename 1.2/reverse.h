@@ -10,7 +10,7 @@
 
 /* GIVEN: a char array  str with a null-terminated
  * EFFECT: str will be reversed
- * EXAMPLES: str = {‘a’,'b’,'c’}; reverse(str) results str = {‘c’,'b’,'a’};
+ * EXAMPLES: str = {'a','b','c','\0'}; reverse(str) results str = {‘c’,'b’,'a’,'\0'};
  */
 void reverse(char* str);
 int NELEM(char* str);

@@ -34,7 +34,7 @@ void stringRotateInPlace(string &s, int index){
         if (nextIndex == length-1){
             s[i] = temp;
         } else {
-        s[i] = s[nextIndex];
+            s[i] = s[nextIndex];
         }
         i = nextIndex;
     }while(i != length-1);

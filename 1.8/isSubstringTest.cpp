@@ -16,7 +16,7 @@ using namespace std;
  * RETURN: true if s2 is a roated string of s1
  * EXAMPLES: isRotate("abcde","cdeab") => true
  */
-//bool isRotate(string s1,string s2)
+bool isRotate(string s1,string s2);
 
 TEST(isSubstringTest, rotateString){
     string s = "abcde";
@@ -33,6 +33,10 @@ TEST(isSubstringTest, isSubstring){
 TEST(isSubstringTest,isRotate){
     string s1 = "abcde";
     string s2 = "cdeab";
-    EXPECT_EQ(true, isSubstring(s2.append((s2)),s1));
+    EXPECT_EQ(true, isRotate(s1,s2));
 
+}
+
+bool isRotate(string s1,string s2){
+    return isSubstring(s2.append(s2), s1);
 }

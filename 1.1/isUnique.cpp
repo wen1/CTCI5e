@@ -9,15 +9,15 @@
 #include "isUnique.h"
 
 bool isUnique(string s){
-    int visited[256];
+    bool visited[256];
     for ( int i = 0; i < 256; i++){
         visited[i] = 0;
     }
     for (int i = 0; i< s.size(); i++){
-        if(visited[s[i]] != 0)
+        if(visited[s[i]] != false)
             return false;
         else
-            visited[s[i]] = 1;
+            visited[s[i]] = true;
     }
     return true;
 }

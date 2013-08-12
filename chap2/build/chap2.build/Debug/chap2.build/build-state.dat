@@ -1,0 +1,1004 @@
+Tchap2
+v5
+r1
+cCheck dependencies
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2 normal x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
+c0000000051BA5FB000000000000000CC
+t1371168688
+s204
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/assert.h
+c0000000050EC66FE0000000000000F6E
+t1357670142
+s3950
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/ctype.h
+c0000000050EC66FF0000000000002C18
+t1357670143
+s11288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/cxxabi.h
+c0000000050EC66FF0000000000001541
+t1357670143
+s5441
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/pthread.h
+c0000000050EC67000000000000003CF0
+t1357670144
+s15600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/regex.h
+c0000000050EC6700000000000000154F
+t1357670144
+s5455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdio.h
+c0000000050EC67000000000000004763
+t1357670144
+s18275
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/stdlib.h
+c0000000050EC670000000000000030A7
+t1357670144
+s12455
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/string.h
+c0000000050EC67000000000000001A3A
+t1357670144
+s6714
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/strings.h
+c0000000050EC67000000000000000F73
+t1357670144
+s3955
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/_types.h
+c0000000050EC67000000000000001845
+t1357670144
+s6213
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/stat.h
+c0000000050EC67000000000000004B2F
+t1357670144
+s19247
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/types.h
+c0000000050EC67000000000000002905
+t1357670144
+s10501
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/sys/wait.h
+c0000000050EC6700000000000000273C
+t1357670144
+s10044
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/time.h
+c0000000050EC6700000000000000178E
+t1357670144
+s6030
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk/usr/include/unistd.h
+c0000000050EC67000000000000006662
+t1357670144
+s26210
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c0000000051BA5FCB00000000000000AA
+t1371168715
+s170
+
+N/Applications/Xcode.app/Contents/Developer/usr/llvm-gcc-4.2/lib/gcc/i686-apple-darwin11/4.2.1/include/stddef.h
+c0000000050EC670B0000000000003197
+t1357670155
+s12695
+i<machine/ansi.h>
+i<sys/_types.h>
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-death-test.h
+c000000005202FD100000000000002B65
+t1375927568
+s11109
+i"gtest/internal/gtest-death-test-internal.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-message.h
+c000000005202FD1000000000000020CB
+t1375927568
+s8395
+i<limits>
+i"gtest/internal/gtest-string.h"
+i"gtest/internal/gtest-internal.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-param-test.h
+c000000005202FD100000000000012859
+t1375927568
+s75865
+i"gtest/internal/gtest-port.h"
+i<utility>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-param-util.h"
+i"gtest/internal/gtest-param-util-generated.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-printers.h
+c000000005202FD100000000000007639
+t1375927568
+s30265
+i<ostream>
+i<sstream>
+i<string>
+i<utility>
+i<vector>
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-internal.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-test-part.h
+c000000005202FD100000000000001945
+t1375927568
+s6469
+i<iosfwd>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-string.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest-typed-test.h
+c000000005202FD100000000000002802
+t1375927568
+s10242
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-type-util.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest.h
+c000000005202FD100000000000014212
+t1375927568
+s82450
+i<limits>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-string.h"
+i"gtest/gtest-death-test.h"
+i"gtest/gtest-message.h"
+i"gtest/gtest-param-test.h"
+i"gtest/gtest-printers.h"
+i"gtest/gtest_prod.h"
+i"gtest/gtest-test-part.h"
+i"gtest/gtest-typed-test.h"
+i"gtest/gtest_pred_impl.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest_pred_impl.h
+c000000005202FD100000000000003B24
+t1375927568
+s15140
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/gtest_prod.h
+c000000005202FD100000000000000914
+t1375927568
+s2324
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-death-test-internal.h
+c000000005202FD100000000000003265
+t1375927568
+s12901
+i"gtest/internal/gtest-internal.h"
+i<stdio.h>
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-filepath.h
+c000000005202FD1000000000000025E1
+t1375927568
+s9697
+i"gtest/internal/gtest-string.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-internal.h
+c000000005202FD10000000000000B8DD
+t1375927568
+s47325
+i"gtest/internal/gtest-port.h"
+i<stdlib.h>
+i<sys/types.h>
+i<sys/wait.h>
+i<unistd.h>
+i<ctype.h>
+i<string.h>
+i<iomanip>
+i<limits>
+i<set>
+i"gtest/internal/gtest-string.h"
+i"gtest/internal/gtest-filepath.h"
+i"gtest/internal/gtest-type-util.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-linked_ptr.h
+c000000005202FD100000000000001F7F
+t1375927568
+s8063
+i<stdlib.h>
+i<assert.h>
+i"gtest/internal/gtest-port.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-param-util-generated.h
+c000000005202FD100000000000029508
+t1375927568
+s169224
+i"gtest/internal/gtest-param-util.h"
+i"gtest/internal/gtest-port.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-param-util.h
+c000000005202FD100000000000005EAA
+t1375927568
+s24234
+i<iterator>
+i<utility>
+i<vector>
+i"gtest/internal/gtest-internal.h"
+i"gtest/internal/gtest-linked_ptr.h"
+i"gtest/internal/gtest-port.h"
+i"gtest/gtest-printers.h"
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-port.h
+c000000005202FD10000000000000F323
+t1375927568
+s62243
+i<ctype.h>
+i<stddef.h>
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<sys/types.h>
+i<sys/stat.h>
+i<iostream>
+i<sstream>
+i<string>
+i<unistd.h>
+i<strings.h>
+i<direct.h>
+i<io.h>
+i<regex.h>
+i<typeinfo>
+i<pthread.h>
+i<time.h>
+i"gtest/internal/gtest-tuple.h"
+i<tuple>
+i<tr1/tuple>
+i<tr1/tuple>
+i<tuple>
+i<vector>
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-string.h
+c000000005202FD10000000000000351B
+t1375927568
+s13595
+i<mem.h>
+i<string.h>
+i"gtest/internal/gtest-port.h"
+i<string>
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-tuple.h
+c000000005202FD100000000000006DDB
+t1375927568
+s28123
+i<utility>
+
+N/Users/Yiwen/Desktop/gtest.framework/Headers/internal/gtest-type-util.h
+c000000005202FD10000000000002D53C
+t1375927568
+s185660
+i"gtest/internal/gtest-port.h"
+i"gtest/internal/gtest-string.h"
+i<cxxabi.h>
+i<acxx_demangle.h>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.1/LinkList.h
+c000000005206FA840000000000000210
+t1376189060
+s528
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.1/removeDuplicates.h
+c000000005206ECA10000000000000234
+t1376185505
+s564
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.1/removeDuplicatesTest.h
+c00000000520689770000000000000121
+t1376160119
+s289
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.2/findKthToLast.h
+c000000005206FA3A00000000000001C9
+t1376188986
+s457
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.2/findKthToLastTest.h
+c000000005206F6390000000000000115
+t1376187961
+s277
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.3/deleteMiddle.h
+c000000005207995700000000000001E4
+t1376229719
+s484
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.3/deleteMiddleTest.h
+c0000000052078B650000000000000111
+t1376226149
+s273
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.4/rearrageTest.h
+c0000000052079F770000000000000101
+t1376231287
+s257
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.4/rearrange.h
+c000000005207B9380000000000000251
+t1376237880
+s593
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.5/addNums.h
+c0000000052084673000000000000020D
+t1376274035
+s525
+i"LinkList.h"
+i"addReverseNums.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.5/addNumsTest.h
+c000000005207BDFD00000000000000FD
+t1376239101
+s253
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.5/addReverseNums.h
+c000000005207D6DC000000000000029B
+t1376245468
+s667
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.6/beginNodeOfLoop.h
+c0000000052085DA7000000000000022E
+t1376279975
+s558
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.6/beginNodeOfLoopTest.h
+c00000000520853EE000000000000011D
+t1376277486
+s285
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/gtest
+c000000005202FD100000000000180DE8
+t1375927568
+s1576424
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../2.1/removeDuplicatesTest.cpp
+c000000005206897700000000000000A9
+t1376160119
+s169
+i"removeDuplicatesTest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2
+t1376279978
+s126728
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o
+t1376227535
+s26972
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o
+t1376274197
+s25316
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o
+t1376276614
+s155192
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o
+t1376253633
+s25776
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o
+t1376279976
+s24696
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o
+t1376279977
+s113896
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/chap2.LinkFileList
+c0000000052085D9100000000000006E8
+t1376279953
+s1768
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o
+t1376237883
+s24568
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o
+t1376237884
+s127000
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o
+t1376227535
+s24672
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o
+t1376227536
+s126124
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o
+t1376227536
+s24188
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o
+t1376238501
+s136392
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o
+t1376238183
+s24564
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o
+t1376227535
+s24764
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o
+t1376227536
+s145964
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp
+c000000005206EDA900000000000002BB
+t1376185769
+s699
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.h
+c000000005206FA840000000000000210
+t1376189060
+s528
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp
+c000000005206FA3A00000000000002B8
+t1376188986
+s696
+i"removeDuplicates.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.h
+c000000005206ECA10000000000000234
+t1376185505
+s564
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp
+c000000005206EDEC000000000000048E
+t1376185836
+s1166
+i"LinkList.h"
+i"gtest/gtest.h"
+i"removeDuplicates.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp
+c000000005207907A00000000000002AF
+t1376227450
+s687
+i"findKthToLast.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.h
+c000000005206FA3A00000000000001C9
+t1376188986
+s457
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp
+c000000005206FA3A00000000000001B3
+t1376188986
+s435
+i"LinkList.h"
+i"gtest/gtest.h"
+i"findKthToLast.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp
+c000000005207B93800000000000001E3
+t1376237880
+s483
+i"deleteMiddle.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp
+c000000005207B9380000000000000373
+t1376237880
+s883
+i"deleteMiddle.h"
+i"LinkList.h"
+i"gtest/gtest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp
+c000000005207BBA40000000000000362
+t1376238500
+s866
+i"LinkList.h"
+i"rearrange.h"
+i"gtest/gtest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp
+c000000005207BA6600000000000001F3
+t1376238182
+s499
+i"rearrange.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp
+c00000000520847150000000000000522
+t1376274197
+s1314
+i"addNums.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp
+c00000000520850830000000000000927
+t1376276611
+s2343
+i"LinkList.h"
+i"addNums.h"
+i"addReverseNums.h"
+i"gtest/gtest.h"
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp
+c000000005207F6C10000000000000479
+t1376253633
+s1145
+i"addReverseNums.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp
+c0000000052085DA700000000000001E5
+t1376279975
+s485
+i"beginNodeOfLoop.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp
+c0000000052085DCB0000000000000254
+t1376280011
+s596
+i"gtest/gtest.h"
+i"beginNodeOfLoop.h"
+i"LinkList.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.cpp
+c000000005208532E000000000000009F
+t1376277294
+s159
+i"beginNodeOfLoop.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.h
+c000000005208532E000000000000010D
+t1376277294
+s269
+i<iostream>
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp
+c000000005206796F0000000000000111
+t1376156015
+s273
+i<iostream>
+i"gtest/gtest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/removeDuplicatesTest.cpp
+c000000005206896000000000000000A9
+t1376160096
+s169
+i"removeDuplicatesTest.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/removeDuplicatesTest.h
+c00000000520689600000000000000121
+t1376160096
+s289
+i<iostream>
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../2.1/removeDuplicatesTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/removeDuplicatesTest.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies938aee4b95b8b741^d239ef4b95b8b741^---0#1#0#--18"Check dependencies36"71FDC09E-335D-429B-A746-6BD58EBA8304-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920297.183626
+e397920298.750761
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp8f352f29c8b7b741^0953c02ac8b7b741^---0#0#0#-19%DVTDocumentLocation2@88"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp0000000000000000^2825"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o36"D7A7CAD5-069E-4873-89EF-67A73D2E8B32-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920334.532010
+e397920335.059451
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp904f884ec8b7b741^76370f4fc8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920334#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp0000000000000000^1965"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o36"7A41CFB3-8DF6-4AA6-8E17-A931584DEB1A-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397966997.495066
+e397966997.802215
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp52d77e957eb8b741^4a5ecd957eb8b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397966997#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@87"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp0000000000000000^1961"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o chap2/../../2.5/addNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o36"68ED167C-8168-4E82-A6AB-73CAE291E3DE-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397969412.000332
+e397969414.773179
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp0938000488b8b741^4af1c50688b8b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397969412#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@91"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp0000000000000000^1977"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o chap2/../../2.5/addNumsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o36"09109771-66AB-4BEA-B77C-7BAB6EB8A754-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397946433.261257
+e397946433.715341
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp3bff42412eb8b741^c235b7412eb8b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397946433#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@94"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp0000000000000000^1989"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o chap2/../../2.5/addReverseNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o36"77EF127F-A876-47F2-8F6F-90E679E4365C-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397972776.051009
+e397972776.419630
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp8c2c0d2895b8b741^b7796b2895b8b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397972776#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@95"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp0000000000000000^1993"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o chap2/../../2.6/beginNodeOfLoop.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o36"FFB75E47-123D-4941-95E3-258532849737-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397972811.943727
+e397972813.596953
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp4ab7f14b95b8b741^ccd0984d95b8b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397972812#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@99"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp0000000000000000^2009"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o chap2/../../2.6/beginNodeOfLoopTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o36"AD8C90D9-0626-494D-8E01-6090013B39D7-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397930681.117578
+e397930683.488592
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp26371eb9f0b7b741^bd347dbbf0b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397930682#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp0000000000000000^1981"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o chap2/../../2.3/deleteMiddle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o36"399DFB96-8F0A-4AF3-9F76-75E91CB6F5B0-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397930681.117718
+e397930684.821271
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cppc5391eb9f0b7b741^8943d2bcf0b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397930682#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp0000000000000000^1997"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o chap2/../../2.3/deleteMiddleTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o36"C7A7C092-BC17-44B8-B18B-1F304E1E0B37-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920298.752069
+e397920299.394212
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cppfbb2c02ac8b7b741^44dd772bc8b7b741^---0#0#0#-19%DVTDocumentLocation2@93"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp0000000000000000^2855"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o36"A1E32376-F04F-4EB4-B4C6-ECBC2B9A1C85-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920335.060807
+e397920335.478008
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp08ad0f4fc8b7b741^af5d7a4fc8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920335#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp0000000000000000^1985"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o36"2C97CF85-B5AC-4DA7-8289-7A03D03F510D-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920298.752966
+e397920299.697581
+r0
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp:11:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:
+o/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found
+o#   include <tr1/tuple>  // NOLINT
+o            ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp04e3c02ac8b7b741^8e93b22bc8b7b741^-596"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp:11:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found#   include <tr1/tuple>  // NOLINT            ^1 error generated.-0#0#0#-19%DVTDocumentLocation2@97"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp0000000000000000^2879"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o36"84E8BB6C-4A0D-4C62-9EB1-999C43E8BE4A-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920335.064207
+e397920336.587231
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp5a82104fc8b7b741^fbaf9750c8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920335#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp0000000000000000^2001"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o36"1D8B36DA-2D75-4260-9DBD-7E32BCCAB948-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920297.183622
+e397920299.189373
+r0
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp:10:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:
+o/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found
+o#   include <tr1/tuple>  // NOLINT
+o            ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp92252f29c8b7b741^7a6f302bc8b7b741^-573"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp:10:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found#   include <tr1/tuple>  // NOLINT            ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"'tr1/tuple' file not found-397920299#18446744073709551615#0#3(2@84"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp:10:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@74"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp0000000000000000^9#9#9#9#148#0#21"Clang LLVM 1.0 Notice--2@121"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/gtest.h0000000000000000^56#9#56#9#2483#0#21"Clang LLVM 1.0 Notice--2@139"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@97"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/internal/gtest-internal.h0000000000000000^39#9#39#9#1939#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/internal/gtest-port.h0000000000000000^498#12#498#12#19911#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp0000000000000000^2781"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o36"8A86D7B6-D1E3-4751-9D4E-D18FB66F97A6-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920334.532024
+e397920336.288016
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp5d4f884ec8b7b741^34f24d50c8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920334#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@74"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp0000000000000000^1929"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o36"9D2BC66A-69D6-43D8-8024-567ED0DD0AF3-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397931300.198815
+e397931301.406075
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp936f3624f3b7b741^b6f56725f3b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397931300#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp0000000000000000^1981"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o chap2/../../2.4/rearrageTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o36"43280671-E6C3-44D0-9735-DD9C58217821-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397930982.767052
+e397930983.157514
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection81"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cppa67cc4e6f1b7b741^c95528e7f1b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397930982#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@89"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp0000000000000000^1969"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o chap2/../../2.4/rearrange.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o36"05D06594-A389-4606-8724-7C6F0C4BEDB4-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920297.183988
+e397920298.751127
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cppb0392f29c8b7b741^b057c02ac8b7b741^---0#0#0#-19%DVTDocumentLocation2@96"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp0000000000000000^2873"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o36"3A5EC3F3-40FA-4593-8226-682C286C122E-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920334.532128
+e397920335.062992
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cppb552884ec8b7b741^e927104fc8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920334#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp0000000000000000^1997"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o36"022523C6-41E9-4811-AEB8-FA8E4C5758B7-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+r0
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s397920297.183629
+e397920299.189438
+r0
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp:11:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:
+oIn file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:
+o/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found
+o#   include <tr1/tuple>  // NOLINT
+o            ^
+o1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp10242f29c8b7b741^c66d302bc8b7b741^-599"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp:11:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-port.h:499:13: fatal error: 'tr1/tuple' file not found#   include <tr1/tuple>  // NOLINT            ^1 error generated.1(36%IDEClangDiagnosticActivityLogMessage2@26"'tr1/tuple' file not found-397920299#18446744073709551615#0#3(2@110"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp:11:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@82"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.1/removeDuplicatesTest.cpp0000000000000000^10#9#10#9#167#0#21"Clang LLVM 1.0 Notice--2@121"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/gtest.h:57:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@79"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/gtest.h0000000000000000^56#9#56#9#2483#0#21"Clang LLVM 1.0 Notice--2@139"In file included from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/Headers/internal/gtest-internal.h:40:-397920299#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@97"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/internal/gtest-internal.h0000000000000000^39#9#39#9#1939#0#21"Clang LLVM 1.0 Notice--2#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/Yiwen/Desktop/gtest.framework/Versions/A/Headers/internal/gtest-port.h0000000000000000^498#12#498#12#19911#0#29"Lexical or Preprocessor Issue--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp0000000000000000^2897"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch x86_64 -fmessage-length=0 -std=gnu++11 -stdlib=libc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wuninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wenum-conversion -Wshorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Winvalid-offsetof -mmacosx-version-min=10.7 -g -fvisibility-inlines-hidden -Wno-sign-conversion -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -MMD -MT dependencies -MF /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.d --serialize-diagnostics /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.dia -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o36"D354A84B-B107-4128-AB86-FBC80A4D62F5-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s397920334.531969
+e397920336.491760
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection92"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cppd34f884ec8b7b741^7dad9750c8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920334#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@100"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp0000000000000000^2013"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o36"5F44ACBF-0CFB-425A-A3BF-82C7544D1549-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+r0
+
+CLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2 normal x86_64
+s397972813.603897
+e397972813.967093
+r1
+xLd
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2
+xnormal
+xx86_64
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Link /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap292b19a4d95b8b741^5793f74d95b8b741^---0#0#0#--753"Ld build/Debug/chap2 normal x86_64    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -filelist /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/chap2.LinkFileList -mmacosx-version-min=10.7 -stdlib=libc++ -framework gtest -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap236"3A014C33-FAA8-4AD8-8EBB-533CCD5206B6-
+
