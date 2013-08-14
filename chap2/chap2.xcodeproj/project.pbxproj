@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93486CF417B95AC100E54A71 /* isPalindrome.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93486CF217B95AC100E54A71 /* isPalindrome.cpp */; };
+		93486CF717B95AD700E54A71 /* isPalindromeTest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93486CF517B95AD700E54A71 /* isPalindromeTest.cpp */; };
 		93D515B817B6B05C0049E6BB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93D515B717B6B05C0049E6BB /* main.cpp */; };
 		93D515BA17B6B05C0049E6BB /* chap2.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 93D515B917B6B05C0049E6BB /* chap2.1 */; };
 		93D515C117B6B0B60049E6BB /* gtest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93D515C017B6B0B60049E6BB /* gtest.framework */; };
@@ -40,6 +42,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		93486CF217B95AC100E54A71 /* isPalindrome.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = isPalindrome.cpp; path = ../../2.7/isPalindrome.cpp; sourceTree = "<group>"; };
+		93486CF317B95AC100E54A71 /* isPalindrome.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = isPalindrome.h; path = ../../2.7/isPalindrome.h; sourceTree = "<group>"; };
+		93486CF517B95AD700E54A71 /* isPalindromeTest.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = isPalindromeTest.cpp; path = ../../2.7/isPalindromeTest.cpp; sourceTree = "<group>"; };
 		93D515B417B6B05C0049E6BB /* chap2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = chap2; sourceTree = BUILT_PRODUCTS_DIR; };
 		93D515B717B6B05C0049E6BB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		93D515B917B6B05C0049E6BB /* chap2.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = chap2.1; sourceTree = "<group>"; };
@@ -80,6 +85,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		93486CF117B95AA000E54A71 /* 2.7 */ = {
+			isa = PBXGroup;
+			children = (
+				93486CF217B95AC100E54A71 /* isPalindrome.cpp */,
+				93486CF317B95AC100E54A71 /* isPalindrome.h */,
+				93486CF517B95AD700E54A71 /* isPalindromeTest.cpp */,
+			);
+			name = 2.7;
+			sourceTree = "<group>";
+		};
 		93D515AB17B6B05C0049E6BB = {
 			isa = PBXGroup;
 			children = (
@@ -100,6 +115,7 @@
 		93D515B617B6B05C0049E6BB /* chap2 */ = {
 			isa = PBXGroup;
 			children = (
+				93486CF117B95AA000E54A71 /* 2.7 */,
 				93D515EE17B88A3C0049E6BB /* 2.6 */,
 				93D515E417B7F4FA0049E6BB /* 2.5 */,
 				93D515DD17B7D3080049E6BB /* 2.4 */,
@@ -242,6 +258,8 @@
 				93D515ED17B7F57E0049E6BB /* addNumsTest.cpp in Sources */,
 				93D515F417B88AD30049E6BB /* beginNodeOfLoop.cpp in Sources */,
 				93D515F717B88B6F0049E6BB /* beginNodeOfLoopTest.cpp in Sources */,
+				93486CF417B95AC100E54A71 /* isPalindrome.cpp in Sources */,
+				93486CF717B95AD700E54A71 /* isPalindromeTest.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -354,6 +372,7 @@
 				93D515BF17B6B05C0049E6BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

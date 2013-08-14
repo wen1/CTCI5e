@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		93486D1417B9C33F00E54A71 /* cstr.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93486D1217B9C33F00E54A71 /* cstr.cpp */; };
 		93D5156317B5C2AD0049E6BB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93D5156217B5C2AD0049E6BB /* main.cpp */; };
 		93D5156517B5C2AD0049E6BB /* chap1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 93D5156417B5C2AD0049E6BB /* chap1 */; };
 		93D5156E17B5C3000049E6BB /* gtest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 93D5156D17B5C3000049E6BB /* gtest.framework */; };
@@ -43,6 +44,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		93486D1217B9C33F00E54A71 /* cstr.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = cstr.cpp; path = ../../1.2/cstr.cpp; sourceTree = "<group>"; };
+		93486D1317B9C33F00E54A71 /* cstr.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = cstr.h; path = ../../1.2/cstr.h; sourceTree = "<group>"; };
 		93D5155F17B5C2AD0049E6BB /* chap1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = chap1; sourceTree = BUILT_PRODUCTS_DIR; };
 		93D5156217B5C2AD0049E6BB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		93D5156417B5C2AD0049E6BB /* chap1 */ = {isa = PBXFileReference; lastKnownFileType = text; path = chap1; sourceTree = "<group>"; };
@@ -134,6 +137,8 @@
 		93D5157517B5C4750049E6BB /* 1.2 */ = {
 			isa = PBXGroup;
 			children = (
+				93486D1217B9C33F00E54A71 /* cstr.cpp */,
+				93486D1317B9C33F00E54A71 /* cstr.h */,
 				93D5157617B5C4860049E6BB /* reverseTest.cpp */,
 				93D5157717B5C4860049E6BB /* reverse.cpp */,
 				93D5157817B5C4860049E6BB /* reverse.h */,
@@ -272,6 +277,7 @@
 				93D515A417B688500049E6BB /* rotateString.cpp in Sources */,
 				93D515A717B689DB0049E6BB /* isSubstringTest.cpp in Sources */,
 				93D515AA17B68ACB0049E6BB /* isSubstring.cpp in Sources */,
+				93486D1417B9C33F00E54A71 /* cstr.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -380,6 +386,7 @@
 				93D5156A17B5C2AD0049E6BB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

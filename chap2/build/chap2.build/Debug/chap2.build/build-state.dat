@@ -3,20 +3,22 @@ v5
 r1
 cCheck dependencies
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicatesTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicatesTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplicates.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/removeDuplicates.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLast.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLast.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddle.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddleTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.3/deleteMiddleTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrange.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrange.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
-cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addReverseNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addReverseNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNums.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNums.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/addNumsTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.5/addNumsTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/rearrageTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.4/rearrageTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoop.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoop.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+cCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
 cLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2 normal x86_64
 
 N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk
@@ -386,6 +388,18 @@ t1376277486
 s285
 i<iostream>
 
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.7/isPalindrome.h
+c000000005209255D0000000000000178
+t1376331101
+s376
+i"Linklist.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/2.7/isPalindromeTest.h
+c00000000520923560000000000000111
+t1376330582
+s273
+i<iostream>
+
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop/gtest.framework/gtest
 c000000005202FD100000000000180DE8
 t1375927568
@@ -398,8 +412,8 @@ s169
 i"removeDuplicatesTest.h"
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2
-t1376279978
-s126728
+t1376331105
+s142948
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o
 t1376227535
@@ -422,13 +436,13 @@ t1376279976
 s24696
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/beginNodeOfLoopTest.o
-t1376279977
+t1376280013
 s113896
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/chap2.LinkFileList
-c0000000052085D9100000000000006E8
-t1376279953
-s1768
+c000000005209255D00000000000007D6
+t1376331101
+s2006
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/deleteMiddle.o
 t1376237883
@@ -445,6 +459,14 @@ s24672
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o
 t1376227536
 s126124
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o
+t1376331103
+s24800
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o
+t1376331104
+s123504
 
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o
 t1376227536
@@ -579,6 +601,20 @@ i"gtest/gtest.h"
 i"beginNodeOfLoop.h"
 i"LinkList.h"
 
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp
+c000000005209255D0000000000000189
+t1376331101
+s393
+i"isPalindrome.h"
+
+N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp
+c00000000520925DD00000000000001BC
+t1376331229
+s444
+i"isPalindrome.h"
+i"gtest/gtest.h"
+i"LinkList.h"
+
 N/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.cpp
 c000000005208532E000000000000009F
 t1376277294
@@ -655,6 +691,12 @@ r0
 CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.6/beginNodeOfLoopTest.cpp
 r0
 
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp
+r0
+
+CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp
+r0
+
 CBuild AST from /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/beginNodeOfLoop.cpp
 r0
 
@@ -666,7 +708,7 @@ r0
 
 CCheck dependencies
 r0
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies938aee4b95b8b741^d239ef4b95b8b741^---0#1#0#--18"Check dependencies36"71FDC09E-335D-429B-A746-6BD58EBA8304-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesabd0e85d5db9b741^2789f15d5db9b741^---0#1#0#--18"Check dependencies36"10A125CF-2E02-45B4-8BED-C9611F03260B-
 
 CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/LinkList.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.1/LinkList.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s397920297.183626
@@ -863,6 +905,34 @@ xcom.apple.compilers.llvmgcc42
 occ1plus: warning: -Wuninitialized is not supported without -O
 lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp5a82104fc8b7b741^fbaf9750c8b7b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-397920335#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@97"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp0000000000000000^2001"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o chap2/../../2.2/findKthToLastTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.2/findKthToLastTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/findKthToLastTest.o36"1D8B36DA-2D75-4260-9DBD-7E32BCCAB948-
 
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s398023901.872787
+e398023903.452408
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp6c79e5dd5cb9b741^c8d273df5cb9b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-398023902#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@92"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp0000000000000000^1981"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o chap2/../../2.7/isPalindrome.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindrome.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindrome.o36"02A60C48-7FF6-462E-B154-B254D882B82C-
+
+CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42
+s398024029.938352
+e398024031.001763
+r1
+xCompileC
+xbuild/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o
+x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.llvmgcc42
+occ1plus: warning: -Wuninitialized is not supported without -O
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp535df05d5db9b741^4773005f5db9b741^-62"cc1plus: warning: -Wuninitialized is not supported without -O1(21%IDEActivityLogMessage2@43"-Wuninitialized is not supported without -O-398024029#0#62#-1#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#20"LLVM GCC 4.2 Warning--0#0#0#-19%DVTDocumentLocation4@96"file://localhost/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp0000000000000000^1997"CompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o chap2/../../2.7/isPalindromeTest.cpp normal x86_64 c++ com.apple.compilers.llvmgcc42    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -Wuninitialized -Wshorten-64-to-32 -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -fasm-blocks -mmacosx-version-min=10.7 -gdwarf-2 -fvisibility-inlines-hidden -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-generated-files.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-own-target-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-all-target-headers.hmap -iquote /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/chap2-project-headers.hmap -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources/x86_64 -I/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/DerivedSources -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -c /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/../../2.7/isPalindromeTest.cpp -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/isPalindromeTest.o36"F6CBA2A9-887F-4CFB-A2A4-15F22AB11E94-
+
 CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/main.o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/chap2/main.cpp normal x86_64 c++ com.apple.compilers.llvm.clang.1_0.compiler
 s397920297.183622
 e397920299.189373
@@ -993,12 +1063,12 @@ CCompileC build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/removeDuplic
 r0
 
 CLd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2 normal x86_64
-s397972813.603897
-e397972813.967093
+s398024031.009547
+e398024031.474843
 r1
 xLd
 x/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap2
 xnormal
 xx86_64
-lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Link /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap292b19a4d95b8b741^5793f74d95b8b741^---0#0#0#--753"Ld build/Debug/chap2 normal x86_64    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -filelist /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/chap2.LinkFileList -mmacosx-version-min=10.7 -stdlib=libc++ -framework gtest -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap236"3A014C33-FAA8-4AD8-8EBB-533CCD5206B6-
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Link /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap21289025f5db9b741^1d8f795f5db9b741^---0#0#0#--753"Ld build/Debug/chap2 normal x86_64    cd /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2    setenv MACOSX_DEPLOYMENT_TARGET 10.7    /Applications/Xcode.app/Contents/Developer/usr/bin/llvm-g++-4.2 -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.7.sdk -L/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug -F/Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/../../../../Desktop -filelist /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/chap2.build/Debug/chap2.build/Objects-normal/x86_64/chap2.LinkFileList -mmacosx-version-min=10.7 -stdlib=libc++ -framework gtest -o /Users/Yiwen/Dropbox/cplusplus/CTCI5e/chap2/build/Debug/chap236"568F9134-ECB2-4FB4-8D9E-593AAB8F074A-
 
